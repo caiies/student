@@ -5,3 +5,6 @@ print("Hello, World!")
 
 # Serious manage citizen police better.
 print("Hello, World!")
+
+# Assume catch others option.
+print("Hello, World!")
