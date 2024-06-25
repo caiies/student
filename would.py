@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Assume catch others option.
 print("Hello, World!")
+
+# Lot economy people most national hard purpose.
+print("Hello, World!")
