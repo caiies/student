@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Issue people medical minute again method describe.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
