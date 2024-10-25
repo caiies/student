@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Card again idea environment loss.
 print("Hello, World!")
+
+# Seem blue skill require.
+print("Hello, World!")
